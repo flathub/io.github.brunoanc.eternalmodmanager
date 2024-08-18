@@ -44,8 +44,8 @@
         {
           "type" : "git",
           "url" : "https://github.com/brunoanc/EternalModManager.git",
-          "tag" : "v4.2.0",
-          "commit" : "d1afb13e1f3f1b8e565f308e5779e9dfda339730"
+          "tag" : "v4.2.1",
+          "commit" : "af1aa6f4d22a4b69c6de8d15b8e6a8824938fd98"
         },
         "sources.json"
       ],
