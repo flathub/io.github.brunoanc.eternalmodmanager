@@ -26,8 +26,8 @@
         {
           "type" : "git",
           "url" : "https://github.com/alacritty/alacritty.git",
-          "tag" : "v0.15.1",
-          "commit" : "0c405d53e74ace2980fc5e6c6d5b710c144bc075"
+          "tag" : "v0.16.1",
+          "commit" : "42f49eebfd2ee1b164e773950d47e019f456e6b7"
         },
         "alacritty_sources.json"
       ],
@@ -44,8 +44,8 @@
         {
           "type" : "git",
           "url" : "https://github.com/brunoanc/EternalModManager.git",
-          "tag" : "v4.2.2",
-          "commit" : "be7504ac99143e5059c970831606773bc85d2552"
+          "tag" : "v4.2.3",
+          "commit" : "d3018db3feeef00c7a5e4d12a666f059834cb274"
         },
         "sources.json"
       ],
