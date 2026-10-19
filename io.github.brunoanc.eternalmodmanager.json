@@ -1,7 +1,7 @@
 {
   "id" : "io.github.brunoanc.eternalmodmanager",
   "runtime" : "org.gnome.Platform",
-  "runtime-version" : "50",
+  "runtime-version" : "51",
   "sdk" : "org.gnome.Sdk",
   "sdk-extensions" : [
     "org.freedesktop.Sdk.Extension.rust-stable"
@@ -26,8 +26,8 @@
         {
           "type" : "git",
           "url" : "https://github.com/alacritty/alacritty.git",
-          "tag" : "v0.16.1",
-          "commit" : "42f49eebfd2ee1b164e773950d47e019f456e6b7"
+          "tag" : "v0.17.0",
+          "commit" : "94e7c8874e526b1e67b349d9ba30ddf81669119e"
         },
         "alacritty_sources.json"
       ],
@@ -44,8 +44,8 @@
         {
           "type" : "git",
           "url" : "https://github.com/brunoanc/EternalModManager.git",
-          "tag" : "v4.2.3",
-          "commit" : "d3018db3feeef00c7a5e4d12a666f059834cb274"
+          "tag" : "v4.2.4",
+          "commit" : "b406e9585ac3ea93ac88c1252c1d4cbdf17ee7fd"
         },
         "sources.json"
       ],
